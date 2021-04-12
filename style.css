@@ -1,0 +1,19 @@
+#header-img{
+    width: 20rem;
+    float: left;
+}
+#nav-bar{
+    float: right;
+}
+#header{
+    padding-top: 20px;
+}
+#form{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main{
+    padding: 30px;
+    text-align: center;
+}
